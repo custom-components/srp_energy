@@ -1,0 +1,10 @@
+{
+    "domain": "srp_energy",
+    "name": "SRP Energy Sensor",
+    "documentation": "https://github.com/custom-components/srp_energy",
+    "requirements": [
+      "srpenergy==1.0.6"
+    ],
+    "dependencies": [],
+    "codeowners": []
+}
